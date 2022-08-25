@@ -38,10 +38,4 @@
         echo $ft;
     } else {
         echo "Not Anagram";
-    }
-
-
-    ?>
-</body>
-
-</html>
+ 
